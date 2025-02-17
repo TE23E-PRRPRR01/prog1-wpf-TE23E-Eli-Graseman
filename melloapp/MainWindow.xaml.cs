@@ -24,7 +24,7 @@ public partial class MainWindow : Window
         InitializeComponent();
     }
 
-    private void KlickRösta(object sender, RoutedEvent e)
+    private void KlickRösta(object sender, RoutedEventArgs e)
     {
         if (sender == röd)
         {
