@@ -1,0 +1,12 @@
+25-02-05 11:34 Session started
+----------------------------------------
+11:35:59 Document switched to: c:\Users\eli.graseman\github-classroom\prog1-wpf-TE23E-Eli-Graseman\intro\App.xaml
+----------------------------------------
+11:36:01 Document switched to: c:\Users\eli.graseman\github-classroom\prog1-wpf-TE23E-Eli-Graseman\intro\AssemblyInfo.cs
+----------------------------------------
+11:36:01 Document switched to: c:\Users\eli.graseman\github-classroom\prog1-wpf-TE23E-Eli-Graseman\intro\App.xaml.cs
+----------------------------------------
+11:36:04 Document switched to: c:\Users\eli.graseman\github-classroom\prog1-wpf-TE23E-Eli-Graseman\intro\AssemblyInfo.cs
+----------------------------------------
+11:36:05 Document switched to: c:\Users\eli.graseman\github-classroom\prog1-wpf-TE23E-Eli-Graseman\intro\MainWindow.xaml
+----------------------------------------
